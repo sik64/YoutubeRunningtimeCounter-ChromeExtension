@@ -1,0 +1,31 @@
+{
+  "name": "Youtube Runningtime Counter:유튜브 재생시간 카운터",
+  "version": "1.4",
+  "manifest_version": 3,
+  "description": "YouTube 재생목록의 총 재생시간 및 배속 재생시간을 계산해 줍니다.",
+  "permissions": ["activeTab","scripting"],
+  "host_permissions": [
+    "http://www.youtube.com/",
+    "http://*/*",
+    "https://*/*"
+  ],
+
+  "action": {
+    "default_icon": {
+      "16": "icon32.png",
+      "32": "icon32.png",
+      "48": "icon32.png",
+      "128": "icon32.png"
+    },
+    "default_title": "Youtube Runningtime Counter",
+    "default_popup": "popup.html"
+  },
+
+  "icons": {
+    "16": "icon128.png",
+    "32": "icon128.png",
+    "48": "icon128.png",
+    "128": "icon128.png"
+  }
+
+}
