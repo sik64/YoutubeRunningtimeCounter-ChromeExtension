@@ -14,6 +14,8 @@ Ver1.3
 * 유튜브 업데이트에 따른 섬네일이미지 소스 변경
 Ver1.4
 * Error modified.
+Ver1.5
+* Error modified.
 
 Check running time of your playlist through the ' Youtube Runningtime Counter ' and use it for effective time management. 
 
@@ -31,3 +33,6 @@ Ver1.3
 * Thumbnail image source is changed caused by Youtube update
 Ver1.4
 * Error modified.
+Ver1.5
+* Error modified.
+
